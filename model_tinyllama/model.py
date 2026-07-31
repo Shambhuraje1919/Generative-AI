@@ -8,5 +8,5 @@ llm = HuggingFacePipeline.from_model_id(
         "max_new_tokens": 100,
     }
 )
-
+print('model loaded successfully boss')
 model = ChatHuggingFace(llm=llm)
