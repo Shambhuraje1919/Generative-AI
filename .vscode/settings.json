@@ -1,3 +1,17 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+  "python.defaultInterpreterPath": "C:/Users/shamb/anaconda3/envs/venv/python.exe",
+  "python.analysis.extraPaths": [
+    "C:/Users/shamb/anaconda3/envs/venv/Lib/site-packages"
+  ],
+  "python.analysis.packageIndexDepths": [
+    { "name": "langchain", "depth": 5 },
+    { "name": "langchain_core", "depth": 5 },
+    { "name": "langchain_community", "depth": 5 },
+    { "name": "langchain_openai", "depth": 5 }
+  ],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.analysis.indexing": true,
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
 }

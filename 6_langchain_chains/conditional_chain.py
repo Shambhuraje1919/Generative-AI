@@ -52,8 +52,7 @@ chain = (
         ),
         (
             lambda x: x["sentiment"].sentiment == "negative",
-            prompt3 | model | parser,
-        ),
+            prompt3 | model | parser,),
         RunnableLambda(lambda x: "Could not find sentiment"),
     )
 )
