@@ -33,7 +33,6 @@
 
 I'm a fresher building a structured, production-style understanding of **Generative AI and LangChain** — not just tutorials, but working code for every core concept: model loading, prompting, embeddings, structured output, chains, runnables, document loaders, and text splitting. Each folder is a self-contained, runnable module.
 
-> 📌 **Why this repo matters:** Most fresher portfolios stop at "I did a course." This one shows *iteration* — chains → runnables → document pipelines → splitting strategies — the actual backbone of a RAG system, built step by step and committed incrementally.
 
 <br/>
 
