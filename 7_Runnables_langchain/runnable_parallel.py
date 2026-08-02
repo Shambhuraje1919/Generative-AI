@@ -2,7 +2,7 @@ from typing import Sequence
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnableSequence, RunnableParallel,RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
-from groq_api import model
+from config.groq_api import model
 from langchain_core.tracers import Run
 
 prompt1 = PromptTemplate(
