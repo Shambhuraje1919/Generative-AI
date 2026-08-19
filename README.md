@@ -149,7 +149,7 @@ These are the next building blocks I'm adding to move from "LangChain basics" to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shambhuraje-jagadale-939410244)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shambhurajejagadale@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shambhuraje1919)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1XE2nZMKop-fKoVZEed9ACk3xzIrnXUuR/view?usp=sharing](https://drive.google.com/file/d/1fMccTPIDiVbuHSl2fnqGSQk32u-RDSOm/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fMccTPIDiVbuHSl2fnqGSQk32u-RDSOm/view?usp=sharing)
 
 </div>
 
